@@ -1,3 +1,1 @@
-My first commit
-
-Update
+Root repository for Holberton Zero Day projects
